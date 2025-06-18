@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🌐 Websites I Developed as a Full Stack Web Developer  
+**@ SpecialOne – Web Design & Development (Herakleion, Crete)**  
+All websites are custom-designed by the company’s graphic designers 🎨
 
-<!--
-**manosk13/manosk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 [Petras Car Body Shop](https://www.auto-petras.gr/)
 
-Here are some ideas to get you started:
+🍷 [Strataridakis Winery](https://www.strataridakis.gr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏥 [Oasis Med Clinic](https://www.oasismed.gr/)
+
+🔋 [Aenaos Energy Systems](https://www.aenaos-systems.gr/)
+
+🏗️ [Crete Construction](https://www.creteconstruction.gr/)
+
+🏡 [Oikoprokat – Prefabricated Houses](https://www.oikoprokat.gr/)
+
+🌾 [Proactive Geo – Agricultural Consultants](https://www.proactivegeo.gr/)
+
+🧱 [Elmenko – Building Materials](https://www.elmenko.gr/)
+
+---
+
+> ## 🛠️ Technologies Used for Development
+🔹 HTML5  
+🔹 CSS3  
+🔹 JavaScript & jQuery  
+🔹 PHP  
+🔹 SQL  
+🔹 GSAP Animation Library  
+
