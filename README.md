@@ -12,6 +12,8 @@ All websites are custom-designed by the company’s graphic designers 🎨
 
 🏗️ [Crete Construction](https://www.creteconstruction.gr/)
 
+🏝️ [Lefkada Booking](https://www.lefkadabooking.gr/)
+
 🏡 [Oikoprokat – Prefabricated Houses](https://www.oikoprokat.gr/)
 
 🌾 [Proactive Geo – Agricultural Consultants](https://www.proactivegeo.gr/)
