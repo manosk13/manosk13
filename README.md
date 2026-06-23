@@ -45,5 +45,5 @@ Currently, I am expanding my stack with advanced enterprise workflows in **Larav
 ---
 
 ## 📊 Connect with Me
-* 💼 LinkedIn: [Your LinkedIn Profile Link Here]
+* 💼 LinkedIn: [Manolis Kassaras](https://www.linkedin.com/in/manolis-kassaras-a73901246/)
 * 🛠️ GitHub: [manosk13](https://github.com)
